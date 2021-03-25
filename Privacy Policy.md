@@ -1,6 +1,6 @@
 # Wowza Learning Privacy Policy
 
-*Effective date: October 15, 2020; Last updated: March 14, 2021*
+*Last updated: March 14, 2021*
 
 Wowza Learning Inc. is dedicated to elevating the the classroom setting by building tools that help teachers and students engage with curriculum in a fun, digital, and team-oriented format. This Privacy Notice is meant to help you understand how we collect and use the personal information you provide on our website, [www.wowzalearning.com](https://wowzalearning.com/). This notice explains:
 
