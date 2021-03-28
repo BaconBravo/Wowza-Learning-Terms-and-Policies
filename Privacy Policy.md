@@ -2,7 +2,7 @@
 
 *Last updated: March 14, 2021*
 
-Wowza Learning Inc. is dedicated to elevating the the classroom setting by building tools that help teachers and students engage with curriculum in a fun, digital, and team-oriented format. This Privacy Notice is meant to help you understand how we collect and use the personal information you provide on our website, [www.wowzalearning.com](https://wowzalearning.com/). This notice explains:
+Wowza Learning Inc. is dedicated to elevating the the classroom setting by building tools that help teachers and students engage with curriculum in a fun, digital, and team-oriented format. This Privacy Notice is meant to help you understand how we collect and use the personal information you provide on our websites, [wowzalearning.com](https://wowzalearning.com/) and [play.wowzalearning.com](https://wowzalearning.com/). This notice explains:
 
 - The information we collect and where we collect it from
 - The ways we use your information
@@ -49,21 +49,19 @@ We do not control, supervise or respond for how the third parties providing your
 
 The information we collect about you from third parties includes:
 
-**Other users**. Wowza Learning may receive information about you from other users. For example, if another user chooses to use our referral service to tell a friend about our website, we may ask that user for their friend’s name and email address so we can send the invites on their behalf. You may contact us at [wowzalearning.com/feedback](https://wowzalearning.com/feedback) to request that we remove your information from our database.
+**Other users**. Wowza Learning may receive information about you from other users. For example, if another user chooses to use our referral service to tell a friend about our website, we may ask that user for their friend’s name and email address so we can send the invites on their behalf. You may contact us at [hello@wowzalearning.com](mailto:support@wowzalearning.com) to request that we remove your information from our database.
 
 **Other partners and companies**. Wowza Learning may also receive information about you from other sources, including our partners, service providers or other third parties.
 
-#### TODO: Information From Children
+#### Information From Children
 
-While Wowza Learning is intended for users age 13 and over, if a child requests access to our website we accommodate them by offering a limited feature set and restricted website experience that removes certain features. We offer this restricted experience (“Child Account”) for accounts of all users below the age of 13 and for some users below the age of 16 where applicable under local law.
+Wowza Learning is intended for users age 13 and over and we do not knowingly seek or collect Personal Information from users under the age of 13. 
 
-To create a Child Account, Wowza Learning requires the user to submit a date of birth, username and email address. We collect a parent’s email address from a child under the age of consent if they attempt to register in order to notify the parent of their child’s use of Wowza Learning and, where required, to seek parental consent for use of that data. We do not sell information from Child Accounts. We may share or distribute information from Child Accounts as described in this section and this Privacy Notice, including with parents in order to provide notice of use and gather parental consent, with third parties to support internal operations, and to provide the restricted experience on the Service to the Child Account.
-
-We do not condition a child's participation or access to any activity on Wowza Learning on the child providing any personally-identifying information or any more information than is reasonably necessary for that activity. We may use aggregated or de-identified information about children for research, analysis, marketing and other commercial purposes.
+We only ask for a first name and last initial when joining a game so the Teacher can confirm that only students are participating in their classroom game session. That information does not persist in any persistent storage once the classroom or game come to an end (whichever is first).
 
 **Third Party Service Providers**. Where necessary, we use restricted versions of our third-party services (for example, Google Analytics) that limit data sharing and tracking on areas of our site and mobile apps that are accessed by children to support our internal operations.
 
-**Parental Rights**. Parents and legal guardians of children under 13 can consent to collection and use of a child's personal information without consenting to the disclosure of that information to third parties. Parents or guardians can review information their children under 13 have contributed to Wowza Learning by accessing their child's account via password reset. Parents can also request that Wowza Learning delete that information and refuse to allow Wowza Learning to collect further information from their children by contacting Wowza Learning at [hello@wowzalearning.com](mailto:support@wowzalearning.com). Wowza Learning may ask additional questions or take other steps to verify the identity of a parent or guardian before responding to a request to review or delete a child's information or a request to refuse further collection from a child.
+**Parental Rights**. Parents can also request that Wowza Learning delete all information and refuse to allow Wowza Learning to collect further information from their children by contacting Wowza Learning at [hello@wowzalearning.com](mailto:support@wowzalearning.com). Wowza Learning may ask additional questions or take other steps to verify the identity of a parent or guardian before responding to a request to review or delete a child's information or a request to refuse further collection from a child.
 
 ### How We Use Your Information
 
