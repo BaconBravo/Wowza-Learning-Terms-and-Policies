@@ -73,7 +73,7 @@ We process the data we collect about you to operate, improve and develop the Wow
 
 Here are some examples of how we use this information:
 
-- **Providing, maintaining and improving the Service**. Account information we collect from you allows us to help you log in, host your content, and use the various study tools we have. It also allows us learn about how you and others use Wowza Learning to help create new activities and services, like Wowza Learning Live.
+- **Providing, maintaining and improving the Service**. Account information we collect from you allows us to help you log in, host your content, and use the various study tools we have. It also allows us learn about how you and others use Wowza Learning to help create new activities and services, like Wowza Learning Games.
 - **Improving, personalizing and facilitating your use of the Service**. When you sign up and use a Wowza Learning account, we may associate certain information with your new account, such as information about other Wowza Learning accounts you had or currently have, and your prior usage of the Service. For example, we use information collected from cookies and other technologies, like pixel tags, to save your language preferences, so we will be able to have our services appear in the language you prefer. We do this in order to ensure that content from the Service is presented in the most effective manner for you.
 - **Measuring, tracking and analyzing trends and usage in connection with your use or the performance of the Service**. In order to develop and enhance our products and deliver a consistent, secure and continuous experience, we need gather certain information to analyze usage and performance of the Service. We also use mobile analytics software to pursue our legitimate interests in operating and improving Wowza Learning by allowing us to better understand the functionality of our mobile software on your device. This software may record information such as how often you use the application, the events and activities that occur within the application, aggregated usage, performance data, and where the application was downloaded from.
 - **Fulfilling any other purpose disclosed to you in connection with the Service.**
@@ -126,7 +126,7 @@ Wowza Learning shares your information in the following circumstances:
 
 **With your consent**. We will share personal information with companies, organizations or individuals outside of Wowza Learning when we have your consent to do so.
 
-**For external processing**. Wowza Learning provides personal and non-personal information to our partners, trusted organizations, vendors and other affiliated organizations to process it on our behalf. Some of these contractors and affiliated organizations may be located outside of your home country. Our providers process data in accordance with our instructions, Privacy Notice and any other appropriate confidentiality, security or other requirements we deem necessary in order to comply with Wowza Learning’s obligations. By using Wowza Learning, you agree to allow these companies to process your data on our behalf, regardless of where they are located. We regularly update a list of our partners, service providers and subprocessors, which you can [view here](https://wowzalearning.com/privacy/providers).
+**For external processing**. Wowza Learning provides personal and non-personal information to our partners, trusted organizations, vendors and other affiliated organizations to process it on our behalf. Some of these contractors and affiliated organizations may be located outside of the United States. Our providers process data in accordance with our instructions, Privacy Notice and any other appropriate confidentiality, security or other requirements we deem necessary in order to comply with Wowza Learning’s obligations. By using Wowza Learning, you agree to allow these companies to process your data on our behalf, regardless of where they are located. We regularly update a list of our partners, service providers and subprocessors, which you can [view here](https://wowzalearning.com/privacy/providers).
 
 **To respond to legal and other requests and to prevent harm**. Wowza Learning will share all categories of personal information with companies, organizations or individuals outside of Wowza Learning if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
@@ -149,11 +149,11 @@ You may receive promotional email messages from Wowza Learning when you first in
 
 #### Who Can View Information You Post
 
-Comments you post on our blog or in testimonials may be viewable by other users of Wowza Learning and the general public and you should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at [wowzalearning.com/feedback](https://wowzalearning.com/feedback). We provide you the ability to control who can view and modify the content you have created on Wowza Learning and to remove information about previous study sessions. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Comments you post on our blog or in testimonials may be viewable by other users of Wowza Learning and the general public and you should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at [privacy@wowzalearning.com](mailto:privacy@wowzalearning.com). We provide you the ability to control who can view and modify the content you have created on Wowza Learning and to remove information about previous study sessions. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 #### Cookies and Tracking Tools
 
-To learn how to manage cookies and other tracking tools, and to read our **Do Not Track Policy**, please click [here](https://wowzalearning.com/cookies).
+To learn how to manage cookies and other tracking tools, please click [here](https://wowzalearning.com/cookies).
 
 #### Managing Your Account
 
@@ -161,17 +161,19 @@ You remain in control of the information you provide to Wowza Learning. You may 
 
 #### California and Nevada Resident Rights
 
-**California residents’ rights**. If you reside in California and are not a job applicant, employee, or employee of another company interacting with us in your job role, you have the right to request what information we collect, use, and disclose. You also have the right to request that we delete your information. The easiest mechanism is to make a request through our support team, you can contact us at [wowzalearning.com/feedback](https://wowzalearning.com/feedback) or email us at [privacy@wowzalearning.com](mailto:privacy@wowzalearning.com). For requests submitted through our support team, we may need to take additional steps to verify you are the owner of the account, including confirming certain account information and ownership of the email address linked to the account. We will not discriminate against you because you have exercised any of your privacy rights under the California Consumer Privacy Act. You can designate an agent to make a request by having them execute a notarized power of attorney to act on your behalf.
+**California residents’ rights**. If you reside in California and are not a job applicant, employee, or employee of another company interacting with us in your job role, you have the right to request what information we collect, use, and disclose. You also have the right to request that we delete your information. The easiest mechanism is to make a request through our support team, you can contact us at [privacy@wowzalearning.com](mailto:privacy@wowzalearning.com). For requests submitted through our support team, we may need to take additional steps to verify you are the owner of the account, including confirming certain account information and ownership of the email address linked to the account. We will not discriminate against you because you have exercised any of your privacy rights under the California Consumer Privacy Act. You can designate an agent to make a request by having them execute a notarized power of attorney to act on your behalf.
 
-**Sales of personal information**. Under California law, we are required to tell California residents if we “sell” information as that term is defined by applicable law. “Sell” means to share personal information with a third party for monetary or other valuable consideration. California residents, we do not sell your personal information based on our understanding of that term. We also have disclosure obligations in Nevada. We do not exchange Nevada residents’ personal information for money with anyone so they may license or sell the personal information to additional parties. We do not sell personal information of minors under the age of 18. Nevada residents may opt out of the future sale of their information to a third party so that they may license or sell information by emailing us at: [privacy@wowzalearning.com](mailto:privacy@wowzalearning.com).
+**Sales of personal information**. Under California law, we are required to tell California residents if we “sell” information as that term is defined by applicable law. “Sell” means to share personal information with a third party for monetary or other valuable consideration. California residents, we do not sell your personal information based on our understanding of that term. We also have disclosure obligations in Nevada. We do not exchange Nevada residents’ personal information for money with anyone so they may license or sell the personal information to additional parties. We do not sell personal information of minors under the age of 18. Nevada residents may opt out of the future sale of their information to a third party so that they may license or sell information by emailing us at [privacy@wowzalearning.com](mailto:privacy@wowzalearning.com).
 
 ### We Store Information In the United States
 
-While Wowza Learning operates internationally, our systems are based in the United States.
+Wowza Learning operates in the United States and our systems are also based in the United States.
 
 ### How Long We Retain Your Information
 
-Wowza Learning retains your personal information for as long as your account is active, to fulfill our legitimate business purposes, or to comply with our legal obligations. When these conditions no longer exist, Wowza Learning removes that information in accordance with our standard deletion processes. Wowza Learning may retain and use non-personal information, including information which has been de-identified, aggregated, or anonymized, indefinitely.
+Wowza Learning retains your personal information for as long as your Teacher account is active, to fulfill our legitimate business purposes, or to comply with our legal obligations. When these conditions no longer exist, Wowza Learning removes that information in accordance with our standard deletion processes. Wowza Learning may retain and use non-personal information, including information which has been de-identified, aggregated, or anonymized, indefinitely.
+
+Student information collected when a student joins a game hosted by their Teacher never exists in our systems longer than the duration of the game played.
 
 We retain records of support tickets and other communications between Wowza Learning and our users, for example support emails, survey responses, feedback submissions, or comments on our blogs or other posts, indefinitely in order to better manage our support processes, maintaining accurate business records, and identifying other trends. We reserve the right to publish these communications in order to help us clarify or respond to your request or to help us support other users.
 
@@ -191,7 +193,7 @@ If we make material changes to how we collect and use personal information from 
 
 ### Contact Us
 
-If you have questions or wish to send us comments about this Privacy Notice, please contact us at [wowzalearning.com/feedback](https://wowzalearning.com/feedback) or write us:
+If you have questions or wish to send us comments about this Privacy Notice, please contact us at:
 
 Wowza Learning Inc.
 
