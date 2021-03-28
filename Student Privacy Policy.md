@@ -1,6 +1,6 @@
 # Wowza Learning Student Privacy Policy
 
-_Last updated March 11, 2021_
+_Last updated March 27, 2021_
 
 # Overview
 
