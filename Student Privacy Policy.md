@@ -6,11 +6,11 @@ _Last updated March 11, 2021_
 
 Wowza Learning is dedicated to making learning awesome, and we take the privacy of our users seriously. Keeping students’ personal information safe is a priority at Wowza Learning. This Student Privacy Policy explains how we use the personal information we collect from and about students when they engage with Wowza Learning in the classroom through the products that are offered to schools and teachers in Wowza Learning. As set forth below, we use such personal information solely as a service provider to our school and school district customers.
 
-To learn about our practices with respect to other users, including teachers who sign up for Wowza Learning and student accountholders who use Wowza Learning outside of the school environment, please read our [Privacy Policy](https://github.com/BaconBravo/Wowza-Learning-Terms-and-Policies/blob/main/Privacy%20Policy.md).
+To learn about our practices with respect to other users, including teachers who sign up for Wowza Learning, please read our [Privacy Policy](https://github.com/BaconBravo/Wowza-Learning-Terms-and-Policies/blob/main/Privacy%20Policy.md).
 
-## **2. Our handling of student information** 
+## 2. Our handling of student information
 
-As a trusted provider of tools that help teachers and schools make learning awesome for students, Wowza Learning is particularly concerned about the use of students’ personal information. We only request the personal information of students that we need to provide the School Services, and we comply with privacy laws, such as the Family Educational Rights and Privacy Act (“FERPA”) and the Children’s Online Privacy Protection Act (“COPPA”), as applicable.
+As a trusted provider of tools that help teachers and schools make learning awesome for students, Wowza Learning is particularly concerned about the use of students’ personal information. We only request the first name and last initial of students to provide the School Services, which is never persistantly stored after each in-classroom game session, and we comply with privacy laws, such as the Family Educational Rights and Privacy Act (“FERPA”) and the Children’s Online Privacy Protection Act (“COPPA”), as applicable.
 
 Wowza Learning does not collect, retain, use or share students’ personal information, except as necessary for authorized school purposes, at the direction of our school and school district customers. Without limitation, this means that:
 
@@ -21,13 +21,13 @@ Wowza Learning does not collect, retain, use or share students’ personal infor
 
 Where required by applicable law, we support our school customers in providing parents and eligible students with access to their personal information and in fulfilling other requests that parents and eligible students may make under applicable law, such as the right to request deletion of students’ personal information or to refuse its further collection or use. Wowza Learning maintains a comprehensive program designed to protect the security, privacy, confidentiality and integrity of students’ personal information.
 
-### 3. Students’ **Personal information**
+### 3. Students’ Personal information
 
-### 3.1 Personal **information we collect from students**
+### 3.1 Personal information we collect from students
 
-Student players: Wowza Learning collects only a nickname, which is anonymous and not linked to a persistent identifier, from a student who merely plays a Wowza Learning game. We use the nickname to permit the student to play.
+Student players: Wowza Learning collects only a first name and last initial, which is never linked to a persistent identifier, from a student who merely plays a Wowza Learning game. We use the name so the teacher can identify who is joining their hosted game.
 
-Personal information collected at a teacher’s direction: Certain features of the School Services permit a teacher to collect information about the class, as well as about individual students, such as attendance, results, answers submitted when playing Wowza Learning games (including in response to open-ended questions) and performance on Wowza Learning games. We use such information only to provide the services to the teacher, such as to permit the teacher to interact with students and track their progress over time. A school or teacher may permit students to share information with others, such as with other students in the same class, school, or school district.
+Personal information collected at a teacher’s direction: Certain features of the School Services permit a teacher to collect information about the class, as well as about individual students, such as attendance, results, answers submitted when playing Wowza Learning games (including in response to open-ended questions) Wowza Learning games. We use such information only to provide the services to the teacher, such as to permit the teacher to interact with students and track their progress over time. A school or teacher may permit students to share information with others, such as with other students in the same class, school, or school district.
 
 **3.2** **Information collected automatically**
 
