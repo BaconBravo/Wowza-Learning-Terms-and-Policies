@@ -37,11 +37,11 @@ No personal information is collected automatically from students who engage with
 
 We may anonymize and/or aggregate personal information so that it no longer identifies any student. We may use and disclose such anonymized and/or aggregated information for any purpose, including for analytics purposes, to help us understand how our products are used and improve upon them.
 
-### **4. Compliance with FERPA **and COPPA
+### 4. Compliance with FERPA and COPPA
 
 We comply with FERPA and COPPA when applicable to us. When FERPA applies, we act as a ”school official” to our school or school district customer, which means that we are under the direct control of the school or district and use students’ personal information only to provide our services to the school or district and not for our own purposes. To the extent COPPA applies, the school or district provides us with any necessary consent on behalf of students’ parents or guardians to permit use of Wowza Learning in the classroom.
 
-### 5. ABOUT KAHOOT
+### 5. About Wowza Learning
 
 Wowza Learning Inc.
 
